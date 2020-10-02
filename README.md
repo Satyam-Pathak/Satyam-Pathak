@@ -16,7 +16,7 @@ Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-ReactJS-black?logo=React&style=social)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=social)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=social)&nbsp;&nbsp;<br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
 ![C](https://img.shields.io/badge/-C-black?logo=C&style=social)&nbsp;&nbsp;
 ![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&style=social)&nbsp;&nbsp;
