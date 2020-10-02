@@ -1,5 +1,5 @@
 
-<h1>Hi There, I am <a  href="#">Satyam Pathak !</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I am <a  href="https://github.com/Satyam-Pathak">Satyam Pathak !</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow](https://iiitl.ac.in/) majoring in Computer Science. I am a full-stack developer , Competitive coder and Cybersecurity enthusiast . Besides programming , I love music and cooking.
 #
@@ -31,15 +31,16 @@ Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-pathak&hide=TeX)
 
 #
-<center>
+<p align="center">
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=satyam-pathak.Satyam-Pathak)
 
-</center>
+</p>
 
 
-<!-- 
+<br>
+
 ### Here is a random meme for you, to make your day
 (*PS: Refresh the page to see a new meme*  )
 
-<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a> -->
+<a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
