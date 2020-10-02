@@ -10,21 +10,20 @@ Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow
 
 **Languages , Frameworks and Tools:**
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-black?logo=jquery&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-ReactJS-black?logo=React&style=social)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=social)&nbsp;&nbsp;<br>
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;
-![C](https://img.shields.io/badge/-C-black?logo=C&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-black?logo=Vim&style=social)&nbsp;&nbsp;
-![VSC](https://img.shields.io/badge/-VS%20Code-black?logo=Visual%20Studio%20code&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-black?logo=React&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?logo=Node.js&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=MongoDB&style=social)&nbsp;&nbsp;&nbsp;&nbsp;<br>
+![C](https://img.shields.io/badge/-C-black?logo=C&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?logo=C%2B%2B&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-black?logo=Vim&style=social)&nbsp;&nbsp;&nbsp;&nbsp;
+![VSC](https://img.shields.io/badge/-Visual%20Studio%20Code-black?logo=Visual%20Studio%20code&style=social)&nbsp;&nbsp;
 #
 ## 📫 How to reach me:
 
