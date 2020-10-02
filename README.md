@@ -1,7 +1,7 @@
 
 <h1>Hi There, I am <a  href="https://github.com/Satyam-Pathak">Satyam Pathak !</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow](https://iiitl.ac.in/) majoring in Computer Science. I am a full-stack developer , Competitive coder and Cybersecurity enthusiast . Besides programming , I love music and cooking.
+Hello, my name is Satyam Kumar Pathak and I am a B.Tech student at [IIIT Lucknow](https://iiitl.ac.in/) . I am a full-stack developer , Competitive coder and Cybersecurity enthusiast . Besides programming ,⚡️ I love music and cooking . ⚡️
 #
 
 **Languages , Frameworks and Tools:**
